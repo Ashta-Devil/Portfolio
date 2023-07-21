@@ -7,11 +7,8 @@ xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
 xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 14">
 <meta name=Originator content="Microsoft Word 14">
-<link rel=File-List href="Portfolio_files/filelist.xml">
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Intel</o:Author>
@@ -1019,7 +1016,7 @@ ul
  </o:shapelayout></xml><![endif]-->
 </head>
 
-<body lang=EN-IN style='tab-interval:36.0pt'>
+
 
 <div class=WordSection1>
 
@@ -1031,7 +1028,7 @@ class=SpellE>Vinith</span><o:p></o:p></span></p>
 <p class=MsoNormal style='margin-top:18.0pt;margin-right:0cm;margin-bottom:
 18.0pt;margin-left:0cm;background:white'><span lang=EN style='font-size:12.0pt;
 line-height:115%;color:#1F1F1F;background:white;mso-highlight:white'>Email:<span
-style='mso-spacerun:yes'>� </span>Vinith.m25@gmail.com<o:p></o:p></span></p>
+style='mso-spacerun:yes'> </span>Vinith.m25@gmail.com<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:18.0pt;margin-right:0cm;margin-bottom:
 18.0pt;margin-left:0cm;background:white'><span lang=EN style='font-size:12.0pt;
@@ -1058,26 +1055,26 @@ lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'>Projects<o:p></o
 
 <p class=MsoNormal style='margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;
 margin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;mso-list:l5 level1 lfo3;
-background:white'><![if !supportLists]><span lang=EN style='font-size:12.0pt;
+background:white'><span lang=EN style='font-size:12.0pt;
 line-height:115%;color:#1F1F1F'><span style='mso-list:Ignore'>&#9679;<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span
 lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'>Developed a
 connector for <span class=SpellE>Salesforce</span> that allows users to move
 data from <span class=SpellE>Salesforce</span> to a variety of destinations.</span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l5 level1 lfo3;
-background:white'><![if !supportLists]><span lang=EN style='font-size:12.0pt;
+background:white'><span lang=EN style='font-size:12.0pt;
 line-height:115%;color:#1F1F1F'><span style='mso-list:Ignore'>&#9679;<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span
 lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'>Developed a
 connector for Google Analytics that allows users to move data from Google
 Analytics to a variety of destinations.</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:11.0pt;
-margin-left:36.0pt;text-indent:-18.0pt;mso-list:l5 level1 lfo3;background:white'><![if !supportLists]><span
+margin-left:36.0pt;text-indent:-18.0pt;mso-list:l5 level1 lfo3;background:white'><span
 lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'><span
 style='mso-list:Ignore'>&#9679;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
+</span></span></span><span lang=EN style='font-size:12.0pt;
 line-height:115%;color:#1F1F1F'>Developed a pipeline that moves data from a
 variety of marketing sources to a data warehouse.</span></p>
 
@@ -1087,25 +1084,25 @@ lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'>Articles<o:p></o
 
 <p class=MsoNormal style='margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;
 margin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;mso-list:l4 level1 lfo1;
-background:white'><![if !supportLists]><span lang=EN style='font-size:12.0pt;
+background:white'><span lang=EN style='font-size:12.0pt;
 line-height:115%;color:#1F1F1F'><span style='mso-list:Ignore'>&#9679;<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span
 lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'>Published a
 blog post about the benefits of using <span class=SpellE>Airbyte</span> for
 data integration.</span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l4 level1 lfo1;
-background:white'><![if !supportLists]><span lang=EN style='font-size:12.0pt;
+background:white'><span lang=EN style='font-size:12.0pt;
 line-height:115%;color:#1F1F1F'><span style='mso-list:Ignore'>&#9679;<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span
 lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'>Published a
 tutorial on how to develop an <span class=SpellE>Airbyte</span> connector.</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:11.0pt;
-margin-left:36.0pt;text-indent:-18.0pt;mso-list:l4 level1 lfo1;background:white'><![if !supportLists]><span
+margin-left:36.0pt;text-indent:-18.0pt;mso-list:l4 level1 lfo1;background:white'><span
 lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'><span
 style='mso-list:Ignore'>&#9679;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
+</span></span></span><span lang=EN style='font-size:12.0pt;
 line-height:115%;color:#1F1F1F'>Published a blog post about how <span
 class=SpellE>Airbyte</span> can be used to move marketing data.</span></p>
 
@@ -1115,62 +1112,62 @@ lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'>Skills<o:p></o:p
 
 <p class=MsoNormal style='margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;
 margin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;mso-list:l3 level1 lfo2;
-background:white'><![if !supportLists]><span lang=EN style='font-size:12.0pt;
+background:white'><span lang=EN style='font-size:12.0pt;
 line-height:115%;color:#1F1F1F'><span style='mso-list:Ignore'>&#9679;<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span
 class=SpellE><span lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'>Airbyte</span></span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l3 level1 lfo2;
-background:white'><![if !supportLists]><span lang=EN style='font-size:12.0pt;
+background:white'><span lang=EN style='font-size:12.0pt;
 line-height:115%;color:#1F1F1F'><span style='mso-list:Ignore'>&#9679;<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span
 lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'>Data
 engineering</span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l3 level1 lfo2;
-background:white'><![if !supportLists]><span lang=EN style='font-size:12.0pt;
+background:white'><span lang=EN style='font-size:12.0pt;
 line-height:115%;color:#1F1F1F'><span style='mso-list:Ignore'>&#9679;<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span
 lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'>Data ingestion</span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l3 level1 lfo2;
-background:white'><![if !supportLists]><span lang=EN style='font-size:12.0pt;
+background:white'><span lang=EN style='font-size:12.0pt;
 line-height:115%;color:#1F1F1F'><span style='mso-list:Ignore'>&#9679;<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span
 lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'>Data
 transformation</span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l3 level1 lfo2;
-background:white'><![if !supportLists]><span lang=EN style='font-size:12.0pt;
+background:white'><span lang=EN style='font-size:12.0pt;
 line-height:115%;color:#1F1F1F'><span style='mso-list:Ignore'>&#9679;<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span
 lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'>Data
 orchestration</span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l3 level1 lfo2;
-background:white'><![if !supportLists]><span lang=EN style='font-size:12.0pt;
+background:white'><span lang=EN style='font-size:12.0pt;
 line-height:115%;color:#1F1F1F'><span style='mso-list:Ignore'>&#9679;<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span
 lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'>Data quality</span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l3 level1 lfo2;
-background:white'><![if !supportLists]><span lang=EN style='font-size:12.0pt;
+background:white'><span lang=EN style='font-size:12.0pt;
 line-height:115%;color:#1F1F1F'><span style='mso-list:Ignore'>&#9679;<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span
 lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'>Data storage</span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l3 level1 lfo2;
-background:white'><![if !supportLists]><span lang=EN style='font-size:12.0pt;
+background:white'><span lang=EN style='font-size:12.0pt;
 line-height:115%;color:#1F1F1F'><span style='mso-list:Ignore'>&#9679;<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span
 lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'>Technical
 documentation</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:11.0pt;
-margin-left:36.0pt;text-indent:-18.0pt;mso-list:l3 level1 lfo2;background:white'><![if !supportLists]><span
+margin-left:36.0pt;text-indent:-18.0pt;mso-list:l3 level1 lfo2;background:white'><span
 lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'><span
 style='mso-list:Ignore'>&#9679;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
+</span></span></span><span lang=EN style='font-size:12.0pt;
 line-height:115%;color:#1F1F1F'>Blog writing</span></p>
 
 <p class=MsoNormal style='margin-top:18.0pt;margin-right:0cm;margin-bottom:
@@ -1179,31 +1176,31 @@ lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'>Highlights<o:p><
 
 <p class=MsoNormal style='margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;
 margin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;mso-list:l2 level1 lfo4;
-background:white'><![if !supportLists]><span lang=EN style='font-size:12.0pt;
+background:white'><span lang=EN style='font-size:12.0pt;
 line-height:115%;color:#1F1F1F'><span style='mso-list:Ignore'>&#9679;<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span
 lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'>Developed and
 deployed data integration pipelines using <span class=SpellE>Airbyte</span>.</span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo4;
-background:white'><![if !supportLists]><span lang=EN style='font-size:12.0pt;
+background:white'><span lang=EN style='font-size:12.0pt;
 line-height:115%;color:#1F1F1F'><span style='mso-list:Ignore'>&#9679;<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span
 lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'>Skilled in data
 ingestion, transformation, orchestration, quality, and storage.</span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo4;
-background:white'><![if !supportLists]><span lang=EN style='font-size:12.0pt;
+background:white'><span lang=EN style='font-size:12.0pt;
 line-height:115%;color:#1F1F1F'><span style='mso-list:Ignore'>&#9679;<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span
 lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'>Expertise in
 technical documentation and blog writing.</span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:11.0pt;
-margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo4;background:white'><![if !supportLists]><span
+margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo4;background:white'><span
 lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'><span
 style='mso-list:Ignore'>&#9679;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
+</span></span></span><span lang=EN style='font-size:12.0pt;
 line-height:115%;color:#1F1F1F'>Published blog posts and tutorials on <span
 class=SpellE>Airbyte</span>.</span></p>
 
@@ -1213,17 +1210,17 @@ lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'>Accomplishments<
 
 <p class=MsoNormal style='margin-top:3.0pt;margin-right:0cm;margin-bottom:0cm;
 margin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;mso-list:l0 level1 lfo6;
-background:white'><![if !supportLists]><span lang=EN style='font-size:12.0pt;
+background:white'><span lang=EN style='font-size:12.0pt;
 line-height:115%;color:#1F1F1F'><span style='mso-list:Ignore'>&#9679;<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span
 lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'>Developed a
 connector for <span class=SpellE>Salesforce</span> that was used by over 1,000
 users.</span></p>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l0 level1 lfo6;
-background:white'><![if !supportLists]><span lang=EN style='font-size:12.0pt;
+background:white'><span lang=EN style='font-size:12.0pt;
 line-height:115%;color:#1F1F1F'><span style='mso-list:Ignore'>&#9679;<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span
 lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'>Developed a
 connector for Google Analytics that was used by over 500 users.</span></p>
 
@@ -1241,10 +1238,10 @@ company.</span></p>
 lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'>Footer<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-top:3.0pt;margin-right:0cm;margin-bottom:11.0pt;
-margin-left:36.0pt;text-indent:-18.0pt;mso-list:l1 level1 lfo5;background:white'><![if !supportLists]><span
+margin-left:36.0pt;text-indent:-18.0pt;mso-list:l1 level1 lfo5;background:white'><span
 lang=EN style='font-size:12.0pt;line-height:115%;color:#1F1F1F'><span
 style='mso-list:Ignore'>&#9679;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
+</span></span></span><span lang=EN style='font-size:12.0pt;
 line-height:115%;color:#1F1F1F'>Available for full-time or contract positions.</span></p>
 
 <p class=MsoNormal style='margin-top:3.0pt;margin-right:0cm;margin-bottom:11.0pt;
